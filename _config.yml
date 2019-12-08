@@ -37,7 +37,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can reach out to me on Twitter or LinkedIn.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -78,7 +78,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -129,3 +129,5 @@ scholar:
 jquery_version: "1.12.4"
 katex_version: "0.9.0"
 anchorjs_version: "3.2.2"
+minima:
+  date_format: "%B %Y"

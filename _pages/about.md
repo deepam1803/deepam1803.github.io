@@ -13,8 +13,7 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Data Scientist at [Crysagi Systems (acquired by Coreview Systems)](https://www.business-standard.com/article/news-ani/coreview-acquires-crysagi-systems-119081400734_1.html) working on problems in NLP, Computer Vision and Graph. I spend most of my time in applying deep learning research in NLP to solve business problems like extracting data from unstructured PDFs (Tables), Creating language models in Indian Languages(Hindi) to extracts named entities from unstructured hindi text, Developing graph based recommendation models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to Crysagi, I used to intern at [Storekey](https://storekey.in/english.html) where i spent most of my time developing  React Native apps and backend for mobile and web apps.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

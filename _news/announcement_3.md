@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2018-6-3 00:00:00+0530
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started as a Data Scientist(Full Time) at  <a href="https://www.crysagi.com/" target="_blank">Crysagi Systems</a>

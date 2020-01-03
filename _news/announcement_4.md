@@ -1,6 +1,5 @@
 ---
 layout: post
-title: A long announcement with details 5555555555
 date: 2017-06-25 00:00:00+0530
 inline: True
 ---

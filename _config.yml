@@ -45,7 +45,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Deepam Talks
-blog_description: a simple whitespace theme for academics
+blog_description: Sharing ideas here..
 
 # Pagination
 paginate: 4

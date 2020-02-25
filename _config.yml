@@ -44,8 +44,8 @@ google_analytics: UA-155352990-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Deepam Talks
-blog_description: Sharing ideas here..
+blog_name: Deepams ideas
+blog_description: shared here..
 
 # Pagination
 paginate: 4

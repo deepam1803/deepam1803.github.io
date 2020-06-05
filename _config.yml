@@ -44,7 +44,7 @@ google_analytics: UA-155352990-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Deepams ideas
+blog_name: My blogs/experiments
 blog_description: shared here..
 
 # Pagination
@@ -98,6 +98,7 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:

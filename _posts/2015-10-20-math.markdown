@@ -4,5 +4,5 @@ external_url: https://link.medium.com/64d4JiDaY2
 title:  Graphs For Similar Entity Search.
 date:   2019-12-30 
 description: We demonstrate the application of graphs for data analysis and similar entity search based on the connections.
-
+canonical_url: https://link.medium.com/64d4JiDaY2
 ---

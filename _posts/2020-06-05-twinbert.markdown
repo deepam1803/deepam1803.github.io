@@ -4,4 +4,5 @@ external_url: https://github.com/deepampatel/TwinBert/
 title: "TwinBert: A pytorch implementation of twinbert paper by Microsoft"
 date:   2020-06-05
 description: Siamese Bert architecure 
+canonical_url : https://github.com/deepampatel/TwinBert/
 ---

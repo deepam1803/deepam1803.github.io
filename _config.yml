@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Deepam Patel
-email: deepam8155#gmail.com
+email: deepam8155@gmail.com
 description: > # this means to ignore newlines until "url:"
- NLP, Graphs, Computer Vision | Data Science @Senquire, @Hedgepup
+ Deepam Patel : NLP, Graphs, Computer Vision | Data Science @Senquire, @Hedgepup
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted for <a href="https://github.com/deepampatel" target="_blank">Deepam</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
@@ -20,8 +20,8 @@ last_updated: # leave blank if you don't want to display last updated
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------

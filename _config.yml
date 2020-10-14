@@ -44,8 +44,8 @@ google_analytics: UA-155352990-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: My blogs/experiments
-blog_description: shared here..
+blog_name: Bored Deepam
+blog_description: writes here.
 
 # Pagination
 paginate: 4
